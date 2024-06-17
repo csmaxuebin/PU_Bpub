@@ -73,7 +73,7 @@ Although the release and analysis of high-dimensional data bring tremendous valu
 ## Experimental Results
 These graphs and tables summarize the effectiveness of different federated learning strategies under various attack vectors, focusing on how different privacy-preserving methods hold up against advanced adversarial techniques. Each plot and metric offers insight into the trade-offs between model accuracy, loss, and privacy protection.
 
-![输入图片说明](/imgs/2024-06-17/rniTXrjcznXugXBo.png)
+![输入图片说明](https://github.com/csmaxuebin/PU_Bpub/blob/main/images/fig1.png)
 ![输入图片说明](/imgs/2024-06-17/7Ogb9W8djJSWZrM0.png)
 ![输入图片说明](/imgs/2024-06-17/IJviYHVpvszbh1BV.png)
 ![输入图片说明](/imgs/2024-06-17/BmKUKzZVCbTVgeUo.png)
