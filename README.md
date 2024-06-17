@@ -71,7 +71,7 @@ Although the release and analysis of high-dimensional data bring tremendous valu
 -   The naming suggests this script is used for batch processing of image denoising tasks using Markov Random Fields (MRFs). Image denoising is a common application of MRFs where the goal is to remove noise while preserving important image details. This script likely processes multiple images or iteratively applies the MRF-based denoising process across a set of images.
 ...
 ## Experimental Results
-These graphs and tables summarize the effectiveness of different federated learning strategies under various attack vectors, focusing on how different privacy-preserving methods hold up against advanced adversarial techniques. Each plot and metric offers insight into the trade-offs between model accuracy, loss, and privacy protection.
+These graphs and tables summarize the effectiveness of different federated learning strategies under various metrics, focusing on how different privacy-preserving methods.
 
 ![输入图片说明](https://github.com/csmaxuebin/PU_Bpub/blob/main/images/fig1.png)
 ![输入图片说明](https://github.com/csmaxuebin/PU_Bpub/blob/main/images/fig2.png?raw=true).
